@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092043654834",
+    "project_id": "markchargelab",
+    "storage_bucket": "markchargelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092043654834:android:f68cbc653539ba21536bab",
+        "android_client_info": {
+          "package_name": "com.markshen.chrgelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092043654834-73nm68vvi5vi64epdhmmo5q5nlvh6dlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXnEkiTUaQ4RTGtOmwkX2663p1IGz8T7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092043654834-73nm68vvi5vi64epdhmmo5q5nlvh6dlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
